@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "playwright-isolated-auth-save",
+  "description": "Save and refresh an Entra ID sign-in for the Playwright MCP browser, so isolated browsers start signed in",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kyler Middleton"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+# Local drafts
+blog/
+
+# Saved sign-ins are credentials, never commit them
+*storage-state*.json
+
+# macOS
+.DS_Store
